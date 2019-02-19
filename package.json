@@ -1,0 +1,23 @@
+{
+  "name": "publisher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "publisher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipeamorais/slide50mqttandexpress-publisher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filipeamorais/slide50mqttandexpress-publisher/issues"
+  },
+  "homepage": "https://github.com/filipeamorais/slide50mqttandexpress-publisher#readme",
+  "dependencies": {
+    "mqtt": "^2.18.8"
+  }
+}
